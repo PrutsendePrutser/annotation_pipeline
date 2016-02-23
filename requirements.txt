@@ -1,0 +1,6 @@
+pylint>=1.5.4
+git-pylint-commit-hook>=2.0.7
+numpy==1.10.4
+PyMySQL>=0.7.1
+biopython==1.66
+matplotlib==1.5.1
